@@ -6,6 +6,7 @@ body{
 }
 .table{
 	border:1px solid black;
+	
 }
 #img1{
 	width:700px;
@@ -15,12 +16,15 @@ body{
 
 .col1{
 	border:1px solid black;
+	box-sizing: border-box;
 }
 .col2{
 	border:1px solid black;
+	box-sizing: border-box;
 }
 .col3{
 	border:1px solid black;
+	box-sizing: border-box;
 }
 .img{
 	width:200px;
