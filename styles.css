@@ -1,1 +1,33 @@
 /*  your css code here. If applicable */
+body{
+	width:1100px;
+	background-color:#cbd6cb;
+	display:block;
+}
+.table{
+	border:1px solid black;
+}
+#img1{
+	width:700px;
+	height:200px;
+	
+}
+
+.col1{
+	border:1px solid black;
+}
+.col2{
+	border:1px solid black;
+}
+.col3{
+	border:1px solid black;
+}
+.img{
+	width:200px;
+}
+
+.text{
+	text-align:center;
+}
+
+
